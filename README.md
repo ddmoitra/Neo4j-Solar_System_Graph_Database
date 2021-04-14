@@ -8,7 +8,7 @@
 
 ### Detailed Description 
 
-*Screenshots of this sample Solar System graph have been provided in this README.md file
+* Screenshots of this sample Solar System graph have been provided in this README.md file
 
 ![image](https://user-images.githubusercontent.com/46364751/114748416-ea934880-9d1f-11eb-9f51-33bb92972f56.png)
 
@@ -21,11 +21,11 @@
 ![image](https://user-images.githubusercontent.com/46364751/114748582-11517f00-9d20-11eb-8b4c-9ae9e57bee6a.png)
 
 
-*A Solar_System_Graph_DB_Labels.json file has been provided which contains all the nodes and property values utilized by the graph
+* A Solar_System_Graph_DB_Labels.json file has been provided which contains all the nodes and property values utilized by the graph
 
-*A Solar_System_Graph_DB_relationships.csv file has been provided which contains all the relationships within nodes of the same label (e.g. inter-planet relationships) and nodes of different labels (e.g. planet-to-Sun) utilized by the graph
+* A Solar_System_Graph_DB_relationships.csv file has been provided which contains all the relationships within nodes of the same label (e.g. inter-planet relationships) and nodes of different labels (e.g. planet-to-Sun) utilized by the graph
 
-*Sample Cypher No-SQL query commands have also been included for reference
+* Sample Cypher No-SQL query commands have also been included for reference
 
 
 ### Installation / Software Requirements
