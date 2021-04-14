@@ -32,8 +32,8 @@
 
 * The following tools were used in this project:
 
-*Neo4j Desktop 1.4.3
-*Neo4j Browser
+* Neo4j Desktop 1.4.3
+* Neo4j Browser
 
 ### License / Citation
 
