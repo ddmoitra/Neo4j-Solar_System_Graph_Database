@@ -1,0 +1,9 @@
+CREATE (p:Planet{name:'Earth'}) RETURN p
+
+MATCH (a:Planet),(s:Star) CREATE (a)-[r:'REVOLVES_AROUND']->(s) RETURN *
+
+MATCH (p)-[r:REVOLVES_AROUND]->(s) RETURN p.name, type(r), s.name
+
+MATCH (h)-[r1:LIVES_ON]->(p)-[r2:REVOLVES_AROUND]->(s) RETURN h.name AS Person,type(r1), p.name AS Planet, type(r2), s.name AS Star
+
+MATCH (p)-[r:NEIGHBOR_TO]->(n) RETURN p.name, type(r), n.name

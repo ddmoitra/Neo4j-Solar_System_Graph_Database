@@ -1,0 +1,128 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Earth",
+"has_moons": "Y",
+"count_moons": 1
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Mercury",
+"has_moons": "N",
+"count_moons": 0
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Venus",
+"has_moons": "N",
+"count_moons": 0
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Mars",
+"has_moons": "Y",
+"count_moons": 2
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Jupiter",
+"has_moons": "Y",
+"count_moons": 79
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Saturn",
+"has_moons": "Y",
+"count_moons": 82
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Uranus",
+"has_moons": "Y",
+"count_moons": 27
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "Planet"
+      ],
+"properties": {
+"name": "Neptune",
+"has_moons": "Y",
+"count_moons": 14
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "Star"
+      ],
+"properties": {
+"name": "Sun"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Deepto"
+      }
+    }
+  }
+]
